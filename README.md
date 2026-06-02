@@ -50,6 +50,7 @@ The supermarket shows consistent customer satisfaction and balanced product dema
 - BigQuery (Google Cloud Platform)
 - Kaggle Dataset
 - GitHub
+- Power BI
 
 
 

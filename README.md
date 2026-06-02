@@ -34,6 +34,7 @@ Rating stay constant across factors. Stable but moderate customer experience acr
 Fashion Accessories perform best, while Health & Beauty is lowest
 
 ![SQL Product Line Analysis](04_Product_lines.png)
+![Power BI product Line visuals](Product_line.png)
 
 ### Branch Performance
 Branch A(Yangon) performs slightly better than others

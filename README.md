@@ -43,6 +43,7 @@ Branch A(Yangon) performs slightly better than others
 ![Power BI Branch and city visuals](branch_city.png)
 ## Conclusion
 The supermarket shows consistent customer satisfaction and balanced product demand. Members are the most valuable customer group, and peak activity occurs in the evening.
+![Power BI Dashboard Overview](Dashboard_overview.png)
 
 ## Tools Used
 - SQL

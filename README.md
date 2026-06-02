@@ -15,25 +15,22 @@ This project analyzes supermarket sales data using SQL to understand customer be
 Customers mostly shop at 7PM (Hour 19)
 
 ![SQL Peak Time Analysis](01_peak_purchase_time.png)
-![Power BI Peak time Chart](purchasing_time.png)
 
 
 ### Customer Type
 Members generate higher revenue and profit than non-members
 
 ![SQL Customer Type Analysis](02_Customer_Type_Analysis.png)
-![Power BI Customer Type Chart](Customer_Type.png)
 
 ### Various factors vs rating
 Rating stay constant across factors. Stable but moderate customer experience across all supermarkets
 
 ![SQL Rating Consistency](03_customer_rating_consistency.png)
-![Power BI Rating Consistency](Customer_rating.png)
+
 ### Product Performance
 Fashion Accessories perform best, while Health & Beauty is lowest
 
 ![SQL Product Line Analysis](04_Product_lines.png)
-![Power BI Product lines chart](Product_lines.png)
 
 ### Branch Performance
 Branch A(Yangon) performs slightly better than others

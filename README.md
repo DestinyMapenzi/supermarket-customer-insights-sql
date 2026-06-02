@@ -15,6 +15,7 @@ This project analyzes supermarket sales data using SQL to understand customer be
 Customers mostly shop at 7PM (Hour 19)
 
 ![SQL Peak Time Analysis](01_peak_purchase_time.png)
+![Power BI Peak Time visual](peak_time.png)
 
 
 ### Customer Type

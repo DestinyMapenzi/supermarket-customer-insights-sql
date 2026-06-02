@@ -21,6 +21,8 @@ Customers mostly shop at 7PM (Hour 19)
 ### Customer Type
 Members generate higher revenue and profit than non-members
 
+![SQL Customer Type Analysis](02_Customer_Type_Analysis.png)
+
 ### Various factors vs rating
 Rating stay constant across factors. Stable but moderate customer experience across all supermarkets
 

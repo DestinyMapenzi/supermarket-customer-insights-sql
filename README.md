@@ -28,6 +28,7 @@ Members generate higher revenue and profit than non-members
 Rating stay constant across factors. Stable but moderate customer experience across all supermarkets
 
 ![SQL Rating Consistency](03_customer_rating_consistency.png)
+![Power BI Customer Ratings](Customer_rating.png)
 
 ### Product Performance
 Fashion Accessories perform best, while Health & Beauty is lowest

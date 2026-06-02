@@ -40,7 +40,7 @@ Fashion Accessories perform best, while Health & Beauty is lowest
 Branch A(Yangon) performs slightly better than others
 
 ![SQL Branch and city analysis](05_branch_and_city.png)
-
+![Power BI Branch and city visuals](branch_city.png)
 ## Conclusion
 The supermarket shows consistent customer satisfaction and balanced product demand. Members are the most valuable customer group, and peak activity occurs in the evening.
 
